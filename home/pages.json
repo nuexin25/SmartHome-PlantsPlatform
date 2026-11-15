@@ -1,0 +1,348 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/zhuye/zhuye",
+			"style": {
+				"navigationBarTitleText": "主页",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/control/control",
+			"style": {
+				"navigationBarTitleText": "控制",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/faq/faq",
+			"style": {
+				"navigationBarTitleText": "常见问题",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/guide/guide",
+			"style": {
+				"navigationBarTitleText": "使用说明",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/doorDetail",
+			"style": {
+				"navigationBarTitleText": "M1详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/doorDetailM2",
+			"style": {
+				"navigationBarTitleText": "M2详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/doorDetailM3",
+			"style": {
+				"navigationBarTitleText": "M3详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/airDetail",
+			"style": {
+				"navigationBarTitleText": "K-T详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/airDetail2",
+			"style": {
+				"navigationBarTitleText": "K-M详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/airDetail3",
+			"style": {
+				"navigationBarTitleText": "K-L详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/switchDetail",
+			"style": {
+				"navigationBarTitleText": "K-A详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/switchDetail2",
+			"style": {
+				"navigationBarTitleText": "K-C详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/tvDetail",
+			"style": {
+				"navigationBarTitleText": "D1详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/tvDetail2",
+			"style": {
+				"navigationBarTitleText": "D2详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/tvDetail3",
+			"style": {
+				"navigationBarTitleText": "D3详情",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/series/door",
+			"style": {
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					},
+					"gestureBack": "none",
+					"animationType": "slide-in-bottom",
+					"animationDuration": 300,
+					"popGesture": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/series/air",
+			"style": {
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					},
+					"gestureBack": "slide"
+				}
+			}
+		},
+		{
+			"path": "pages/series/switch",
+			"style": {
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					},
+					"gestureBack": "slide"
+				}
+			}
+		},
+		{
+			"path": "pages/series/tv",
+			"style": {
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": []
+					},
+					"gestureBack": "slide"
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"bounce": "none",
+			"titleNView": {
+				"buttons": []
+			},
+			"gestureBack": "none",
+			"animationType": "slide-in-bottom",
+			"animationDuration": 300
+		}
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#000000",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle": "black",
+		"list": [
+			{
+				"pagePath": "pages/home/zhuye/zhuye",
+				"text": "主页",
+				"iconPath": "static/tabbar/home-active.png",
+				"selectedIconPath": "static/tabbar/home.png"
+			},
+			{
+				"pagePath": "pages/control/control",
+				"text": "控制",
+				"iconPath": "static/tabbar/control-active.png",
+				"selectedIconPath": "static/tabbar/control.png"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/tabbar/profile-active.png",
+				"selectedIconPath": "static/tabbar/profile.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}
